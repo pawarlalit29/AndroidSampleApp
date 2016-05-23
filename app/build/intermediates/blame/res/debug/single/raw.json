@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android_Data\\Sample_Project\\AndroidSampleApp\\AndroidSampleApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ormlite_config.txt",
+        "source": "E:\\Android_Data\\Sample_Project\\AndroidSampleApp\\AndroidSampleApp\\app\\src\\main\\res\\raw\\ormlite_config.txt"
+    },
+    {
+        "merged": "E:\\Android_Data\\Sample_Project\\AndroidSampleApp\\AndroidSampleApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\product_data.json",
+        "source": "E:\\Android_Data\\Sample_Project\\AndroidSampleApp\\AndroidSampleApp\\app\\src\\main\\res\\raw\\product_data.json"
+    }
+]

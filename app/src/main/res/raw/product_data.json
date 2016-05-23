@@ -1,0 +1,100 @@
+{
+  "product_list": [
+    {
+      "pid": "p001",
+      "p_title": "Whirlpool MW 25 BG 25 L Grill Microwave Oven",
+      "p_desc": "Type : Grill\nCapacity : 25 L\nControl Type : Feather Touch\nAuto Cook Menu : NA\nPower Output : 900 W\nDimensions (WxHxD) : 41 cm x 48.5 cm x 28.7 cm\nWeight : 13.2 kg\nTurntable Diameter : 27 cm\nCooking Modes : Grill Combi Mode",
+      "p_cat": 0,
+      "p_imageurl": "http://img6a.flixcart.com/image/microwave-new/a/y/f/whirlpool-mw-25-bg-400x400-imae4ty4y7sgwezh.jpeg",
+      "p_price": 6500
+    },
+    {
+      "pid": "p002",
+      "p_title": "IFB 25SC4 25 L Convection Microwave Oven",
+      "p_desc": "Type : Grill\nCapacity : 25 L\nControl Type : Feather Touch\nAuto Cook Menu : NA\nPower Output : 900 W\nDimensions (WxHxD) : 41 cm x 48.5 cm x 28.7 cm\nWeight : 13.2 kg\nTurntable Diameter : 27 cm\nCooking Modes : Grill Combi Mode",
+      "p_cat": 0,
+      "p_imageurl": "http://img6a.flixcart.com/image/microwave-new/y/k/m/ifb-25sc4-400x400-imaef2pztynvqjaf.jpeg",
+      "p_price": 6750
+    },
+    {
+      "pid": "p003",
+      "p_title": "LG 80cm (32) HD Ready LED TV",
+      "p_desc": "LED Display\n80 cm (32)\nHD Ready, 1366 x 768\n2 x HDMI, 1 x USB\nRefresh Rate - PMI (Picture Mastering Index): 300 Hz",
+      "p_cat": 0,
+      "p_imageurl": "http://img6a.flixcart.com/image/television/s/r/t/lg-32lf550a-400x400-imae8nyvxyjds3qu.jpeg",
+      "p_price": 18200
+    },
+    {
+      "pid": "p004",
+      "p_title": "Samsung 80 (32) HD Ready LED TV",
+      "p_desc": "LED Display\n80 cm (32)\nHD Ready, 1366 x 768\n2 x HDMI, 1 x USB\nRefresh Rate - PMI (Picture Mastering Index): 300 Hz",
+      "p_cat": 0,
+      "p_imageurl": "http://img6a.flixcart.com/image/television/k/8/k/samsung-32fh4003-400x400-imae9bdzwajyhmhb.jpeg",
+      "p_price": 20000
+    },
+    {
+      "pid": "p005",
+      "p_title": "Eureka Forbes Easy Clean Plus Hand-held Vacuum Cleaner",
+      "p_desc": "Hand-held Vacuum Cleaner\n0.5L Dust Capacity\nBlower Feature\n800 W Motor Power",
+      "p_cat": 0,
+      "p_imageurl": "http://img5a.flixcart.com/image/vacuum-cleaner/e/e/g/eureka-forbes-easy-clean-easy-clean-plus-400x400-imae7dam5ey3vaeb.jpeg",
+      "p_price": 5000
+    },
+    {
+      "pid": "p006",
+      "p_title": "Black & Decker ACV 1205 Car Vacuum Cleaner",
+      "p_desc": "Handheld Car Vacuum Cleaner\n0.7 L Dust Capacity\n5 m Cord\n30 mins Run Time",
+      "p_cat": 0,
+      "p_imageurl": "http://img5a.flixcart.com/image/vacuum-cleaner/d/r/n/black-decker-acv-1205-car-acv-1205-car-400x400-imadtct3cuxnqnyh.jpeg",
+      "p_price": 4750
+    },
+    {
+      "pid": "p007",
+      "p_title": "HomeTown Dion Engineered Wood Coffee Table",
+      "p_desc": "Brand: Woodsworth\nHeight: 18 inches\nWidth: 46 inches\nDepth: 24 inches\nAssembly: No Assembly Required\nColour: Provincial Teak\nWarranty: 12 Months' Warranty\nDimensions: H 18 x W 46 x D 24\nPrimary Material: Sheesham Wood\nBox Count: 1\nRoom Type: Living Room",
+      "p_cat": 1,
+      "p_imageurl": "http://img6a.flixcart.com/image/coffee-table/c/w/t/600365653001-particle-board-hometown-wenge-400x400-imae8z4ucvuazyj2.jpeg",
+      "p_price": 9500
+    },
+    {
+      "pid": "p008",
+      "p_title": "Acme Production Solid Wood Coffee Table",
+      "p_desc": "Brand: Woodsworth\nHeight: 18 inches\nWidth: 46 inches\nDepth: 24 inches\nAssembly: No Assembly Required\nColour: Provincial Teak\nWarranty: 12 Months' Warranty\nDimensions: H 18 x W 46 x D 24\nPrimary Material: Sheesham Wood\nBox Count: 1\nRoom Type: Living Room",
+      "p_cat": 1,
+      "p_imageurl": "http://img5a.flixcart.com/image/coffee-table/5/k/g/8328-mango-wood-acme-production-living-room-brown-400x400-imaedydyzajxhntt.jpeg",
+      "p_price": 12500
+    },
+    {
+      "pid": "p009",
+      "p_title": "Wood Dekor Solid Wood Living Room Chair",
+      "p_desc": "Brand: Amberville\nHeight: 38 inches\nWidth: 22 inches\nDepth: 22 inches\nSeating Height: 18\nAssembly: No Assembly Required\nColour: Honey Oak\nWarranty: 12 Months' Warranty\nDimensions: H 38 x W 22 x D 22; Seating Height - 18\nPrimary Material: Sheesham Wood\nWeight: 18 KG\nBox Count: 1\nRoom Type: Living Room",
+      "p_cat": 1,
+      "p_imageurl": "http://img5a.flixcart.com/image/living-room-chair/y/d/m/wd-1118w-rosewood-sheesham-wood-dekor-rust-brown-400x400-imaegdtvxahdwszc.jpeg",
+      "p_price": 4500
+    },
+    {
+      "pid": "p010",
+      "p_title": "Jivan Solid Wood Living Room Chair",
+      "p_desc": "Brand: Amberville\nHeight: 38 inches\nWidth: 22 inches\nDepth: 22 inches\nSeating Height: 18\nAssembly: No Assembly Required\nColour: Honey Oak\nWarranty: 12 Months' Warranty\nDimensions: H 38 x W 22 x D 22; Seating Height - 18\nPrimary Material: Sheesham Wood\nWeight: 18 KG\nBox Count: 1\nRoom Type: Living Room",
+      "p_cat": 1,
+      "p_imageurl": "http://img6a.flixcart.com/image/living-room-chair/e/z/j/162-rosewood-sheesham-jivan-na-walnut-brown-400x400-imaeayqh3tctctvp.jpeg",
+      "p_price": 6500
+    },
+    {
+      "pid": "p011",
+      "p_title": "Nilkamal Freedom Plastic Free Standing Cabinet",
+      "p_desc": "A multi-purpose storage solution, the Nilkamal Freedom mini Cabinet is a must buy for every home. Compact in structure, its polypropylene body makes it sturdy and strong. Easy to maintain, it is lightweight and portable and can be placed in any part of the house. House all your essentials safely in this cabinet, which is easy to assemble and dissemble. Light weight, hence portable it comes with two shelves for storage. With a great design and a weather brown finish this product has two handles in the form of grooves which allow the doors of the cabinet to be opened easily. Storage is no more a hassle with this great product from the house of Nilkamal.",
+      "p_cat": 1,
+      "p_imageurl": "http://img6a.flixcart.com/image/cabinet-drawer/n/e/z/flpwfrdompbommn006-pp-home-weather-brown-400x400-imae9hza8zamvuwd.jpeg",
+      "p_price": 9750
+    },
+    {
+      "pid": "p012",
+      "p_title": "HomeTown Prime 3 Door Wenge Engineered Wood Almirah",
+      "p_desc": "Available In 2 door, 3 Door and 4 Door Wardrobe Lockable External Doors Stain And Water Resistant melamine finish Comes with a 1 year warranty from HOME TOWN against manufacturing defects All sides exposed to atmosphere are covered with PVC edge banding to safeguard product from moisture All panels are laminated from both sides to avoid fungus formation, moisture absorption and improve life of product",
+      "p_cat": 1,
+      "p_imageurl": "http://img6a.flixcart.com/image/cupboard-almirah/t/y/f/6000032205001-mfb-melamine-fiberboard-hometown-wenge-400x400-imaeepzgz474zmpf.jpeg",
+      "p_price": 12500
+    }
+  ]
+}

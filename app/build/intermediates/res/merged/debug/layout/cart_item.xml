@@ -1,0 +1,38 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@android:style/Widget.ActionButton"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+    android:clickable="true"
+    android:id="@+id/cartlayout"
+    android:background="@drawable/selector_with_transparency"
+    android:padding="5dp">
+
+    <!-- Menu Item Image -->
+
+    <ImageButton
+        android:id="@+id/cartimg_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/selector_with_transparency"
+        android:src="@drawable/ic_action_local_grocery_store"
+        android:clickable="true"
+        android:padding="5dp"/>
+
+    <!-- Badge Count -->
+
+    <TextView
+        android:id="@+id/tvcart_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginLeft="22dp"
+        android:minHeight="18dp"
+        android:minWidth="18dp"
+        android:singleLine="true"
+        android:textColor="@color/white"
+        android:textSize="12sp"
+        android:background="@drawable/shape_notification"
+        android:visibility="visible" >
+    </TextView>
+
+</RelativeLayout>
